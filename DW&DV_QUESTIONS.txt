@@ -1,0 +1,36 @@
+1.What is Data. Where can we find the data. Types of Data with examples?
+2.Differences between structure data,semi structure data and unstructured data with examples?
+3.What is Data Wrangling.Explain the steps of Data Wrangling?
+4.What is outlier. How to detect the outlier with example?
+5.Explain Normalization & Standardization,Formatting with an examples?
+6.What the different types of pdf libraries and usages,what is pdf parser and need of parsing?
+7.Develop the python script to parse the pdf files using pdfminer?
+8.Differences between webscrapping,indexing and sitemap?
+9.Check duplicates and missing data on child labour?
+10.Eliminate mismatches in child labour data?
+11.Clean spaces, and special characters in child labor data?
+12.Display the pie chart with percentage of special,nonspecial under category of states column data on child labour?
+13.Draw the line,bar,pie,histogram,stacked bar,scatteplots,scatter plots with matplotlib?
+14.Write a python program to download & display content of robot.txt for en.wikipedia.org.?
+15.What are the foundations for building Visualizations?
+16.Expalin the steps to create your first visualizations?
+17.What is Tableau.What are the main products of Tableau.Explain the Tableau tool?
+18.Illustrate the Tableau Architecture?
+19.How many types of connections in tableau and explain with an examples?
+20.What is Dimension and What is Measure with an examples?
+21.Connecting data to tableau, creating basic charts (line, bar charts, tree maps) using the show me panel?
+22.Basic Calcualtions in Tableau?
+23.Quick table or Table level calculations in Tableau?
+24.Applying new data calculations to visualizations
+25.formatting tools and menus, formatting specific parts of the view
+26.Editing and formatting axes?
+27.Manipulating data in tableau data?Data types in tableau?
+28.Structuring the data in tableau?
+29.Types of Filters in Tableau?
+30.pivoting tableau data.
+31.Advanced visualizations tools in tableau
+32.customising filters and action filters in tableau
+33.Creating dashboards,adding interactivity in the dashboard and design for different devices
+34.Storytelling and dual axis charts in tableau?
+35.Creating custom charts in tableau?
+36.Cyclical Data with Heat Map?Explain LOD Caclulations
